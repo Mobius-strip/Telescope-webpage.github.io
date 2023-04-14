@@ -1,2 +1,2 @@
 # Telescope-webpage-Frontend-
-A Webpage made for practicing HTML, CSS  and JavaScript
+A Webpage made for practicing HTML, CSS
